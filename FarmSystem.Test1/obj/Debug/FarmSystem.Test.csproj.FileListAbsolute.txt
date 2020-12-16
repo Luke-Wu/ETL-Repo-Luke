@@ -1,0 +1,14 @@
+D:\Luke Folder\Luke Project\ETL-Repo\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe.config
+D:\Luke Folder\Luke Project\ETL-Repo\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe
+D:\Luke Folder\Luke Project\ETL-Repo\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.pdb
+D:\Luke Folder\Luke Project\ETL-Repo\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csprojAssemblyReference.cache
+D:\Luke Folder\Luke Project\ETL-Repo\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csproj.CoreCompileInputs.cache
+D:\Luke Folder\Luke Project\ETL-Repo\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.exe
+D:\Luke Folder\Luke Project\ETL-Repo\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.pdb
+D:\Luke Folder\Luke Project\ETL-Repo-Luke\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe.config
+D:\Luke Folder\Luke Project\ETL-Repo-Luke\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe
+D:\Luke Folder\Luke Project\ETL-Repo-Luke\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.pdb
+D:\Luke Folder\Luke Project\ETL-Repo-Luke\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csprojAssemblyReference.cache
+D:\Luke Folder\Luke Project\ETL-Repo-Luke\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csproj.CoreCompileInputs.cache
+D:\Luke Folder\Luke Project\ETL-Repo-Luke\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.exe
+D:\Luke Folder\Luke Project\ETL-Repo-Luke\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.pdb
